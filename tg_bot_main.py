@@ -10,7 +10,7 @@ from database_funcs_369 import create_connection, insert_id, insert_name, insert
 '''from database_w import get_by_key_word, get_recipe, translate_text, translate_text_eng, insert_id_r_num_word, \
     insert_id_r_num_in, get_user_r, get_num_word, insert_rec, get_rec, filter_recipes'''
 
-token = '8359102484:AAE4XV9iPPsIL5qsl5u8YJRXVc36Q-3atW0'
+token = ''
 bot = telebot.TeleBot(token)
 
 logging.basicConfig(
